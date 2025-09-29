@@ -32,7 +32,7 @@
 - The executables shall be usable from the windows command line
 - The generator shal print meaningful error messages if requires arguments are missing or invalid
 
-## Protability
+## Portability
 
 - The generated projects shall be portable to other systems (e.g. Linux) if language allows (e.g. C/C++ with Makefile).
 
